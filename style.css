@@ -278,6 +278,9 @@ button{
 .social-madia {
     margin-bottom: 2%;
 }
+span a{
+    text-decoration: none;
+}
 audio{
     visibility: hidden;
 }
